@@ -1,0 +1,8 @@
+node_modules/
+database.sqlite
+.env
+*.log
+pos.sqlite
+pos.sqlite-journal
+pos.sqlite-wal
+pos.sqlite-shm

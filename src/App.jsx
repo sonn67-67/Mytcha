@@ -1,4 +1,7 @@
-
+/*
+ * Kontributor:
+ * Bert — Pengembangan aplikasi Mytcha POS
+ */
 import { orderService } from "./services/orderService";
 import { menuService } from "./services/menuService";
 import { useEffect, useState } from "react";
